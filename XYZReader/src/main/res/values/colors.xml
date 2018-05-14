@@ -22,4 +22,9 @@
     <color name="color_primary_dark">#0097A7</color>
     <color name="color_accent">#04561A</color>
     <color name="ltgray">#ffe0e0e0</color>
+
+    <!-- colors for list_item_article -->
+    <color name="color_article_title">#000000</color>
+    <color name="color_article_subtitle">#424242</color>
+
 </resources>
