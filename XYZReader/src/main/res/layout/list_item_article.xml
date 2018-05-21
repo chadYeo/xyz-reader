@@ -25,6 +25,7 @@
             android:layout_marginEnd="16dp"
             android:layout_marginStart="16dp"
             android:layout_marginTop="8dp"
+            android:scaleType="centerCrop"
             android:transitionName="@string/transition_photo"
             android:background="@color/photo_placeholder" />
 
